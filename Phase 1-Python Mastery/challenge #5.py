@@ -4,7 +4,7 @@ inventory = {
     "Map": 1
 }
 
-inventory["Potion"] = +3  # Player found 3 more Potions
+inventory["Potion"] += 3  # Player found 3 more Potions
 inventory["Gold Coin"]= 50 # Player found 50 Gold Coins
 
 # List with duplicates
